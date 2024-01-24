@@ -2,10 +2,10 @@ package com.raana.marco.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val primaryColor = Color(0xFF3F51B5)
-val secondaryColor = Color(0xFF17c06f)
+val primaryColor = Color(0xFF006d77)
+val secondaryColor = Color(0xFFe29578)
 val textColor = Color(0xff39393a)
-val backgroundColor = Color(0xffe4e4e4)
+val backgroundColor = Color(0xffedf6f9)
 val surfaceColor = Color(0xFFACB7C0)
 val red = Color(0xffEF6060)
 val black = Color(0xff000000)
